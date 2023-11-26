@@ -1,9 +1,6 @@
 Hi 👋 My name is Mark Munoz
 ===========================
 
-Jr Software Engineer
---------------------
-
 Motivated and passionate about embracing and advancing innovative technologies. My intellectual curiosity and strategic insight uniquely position me to uncover the root causes of operational and business problems creating customized and sustainable solutions for businesses. I am known for my strategic and analytical thinking, enabling me to understand the technical and business needs that influence overall strategy, growth, and profitability.
 
 *   🌍  I'm based in New York
