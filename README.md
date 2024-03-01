@@ -1,4 +1,4 @@
-Hi 👋 My name is Mark Munoz
+Hi 👋 i'm Mark 
 ===========================
 
 
