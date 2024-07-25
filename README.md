@@ -1,10 +1,19 @@
+
+
 Hi 👋 i'm Mark 
 ===========================
+I'm a Computer Information Systems major, currently studying at Lehman College CUNY with a foundation in IT infrastructure, data management, and software development. I am committed to leveraging my technical skills to drive business success and am always eager to learn and adapt to new challenges. My focus is on delivering impactful solutions that align with organizational goals through effective collaboration and continuous improvement.
+
+ Connect with Me!
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-MarkMunoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-munoz-b18a981a9/)] [![Gmail Badge](https://img.shields.io/badge/-Mark.D.Munoz@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Mark.D.Munoz@outlook.com)](mailto:Mark.D.Munoz@outlook.com)
+
+## Projects
+Here are some of the projects that I have worked on: 
 
 
-*   🌍  I'm based in New York
-*   ✉️  You can contact me at [Mark.Munoz@lc.cuny.edu](mailto:Mark.Munoz@lc.cuny.edu)
-*   🧠  I'm learning PHP 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                    </p>
+
+
+
+
+
