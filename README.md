@@ -11,7 +11,7 @@ I'm a Computer Information Systems major, currently studying at Lehman College C
 ## Projects
 Here are some of the projects that I have worked on: 
 
-* [Algorithmic Trading](https://github.com/MarkDMunoz/Algorithmic-Trading): Conducted an analysis of a ten-stock portfolio, leveraging risk/return metrics and efficient frontier models. Utilized Berry Cox’s price momentum factors for a 5-year backtest, benchmarking performance against leading indices such as SPY, IWM, and DIA.
+* [Algorithmic Trading](https://github.com/MarkDMunoz/Algorithmic-Trading): Conducted an analysis of a ten-stock portfolio using Python, leveraging risk/return metrics and efficient frontier models. Utilized Berry Cox’s price momentum factors for a 5-year backtest, benchmarking performance against leading indices such as SPY, IWM, and DIA.
 
 * 
 
